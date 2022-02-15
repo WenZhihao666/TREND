@@ -36,7 +36,7 @@ The repository is organised as follows:
 	@inproceedings{wen2022trend,
 		title = {TREND: TempoRal Event and Node Dynamics for Graph Representation Learning},
 		author = {Wen, Zhihao and Fang, Yuan},
-		booktitle = {Proceedings of the Web Conference 2021},
+		booktitle = {Proceedings of the Web Conference 2022},
 		year = {2022}
 	}
 
